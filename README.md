@@ -1,5 +1,5 @@
 # Adversarial Discriminative Domain Adaptation
-# Authors: Eric Tzeng, Judy Hoffman, Kate Saenko, Trevor Darrell
+## Authors: Eric Tzeng, Judy Hoffman, Kate Saenko, Trevor Darrell
 
 PyTorch implementation of the paper.
 
